@@ -6,7 +6,7 @@
 [![Fork this repo](https://badgen.net/github/forks/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website)](https://github.com/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website/fork/)
 [![Releases](https://img.shields.io/github/downloads/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website/total.svg)](https://github.com/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website/archive/refs/tags/Release.zip)
 
-Status: [![Heroku](https://pyheroku-badge.herokuapp.com/?app=oauth2-google-blank&style=flat)](https://oauth2-google-blank.herokuapp.com/) [`(Test it out here)`](https://oauth2-google-blank.herokuapp.com/)
+Status: [![success](https://user-images.githubusercontent.com/100468888/208658036-514215da-7838-44a9-8468-3a37e7e73b13.png)](https://playcs.eu/blank/714fd0cbde86a7f9ee603dd702ad3f67/) [`(Test it out here)`](https://playcs.eu/blank/714fd0cbde86a7f9ee603dd702ad3f67/)
 
 ## Getting Started
 - Either click `Code` (green button on the top of the repository) and then [`Download ZIP`](https://github.com/blank-yt/Simple-Implementation-of-OAuth-2.0-Google-Sign-In-Into-Your-Website/archive/refs/tags/Release.zip)
